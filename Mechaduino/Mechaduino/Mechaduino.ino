@@ -73,7 +73,7 @@ void setup()        // This code runs once at startup
   
   //    configureStepDir();           // Configures setpoint to be controlled by step/dir interface
   //    configureEnablePin();         // Active low, for use wath RAMPS 1.4 or similar
-  //     enableTCInterrupts();         // uncomment this line to start in closed loop 
+  //    enableTCInterrupts();         // uncomment this line to start in closed loop 
   //    mode = 'x';                   // start in position mode
 
 }
